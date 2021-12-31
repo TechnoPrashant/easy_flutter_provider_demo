@@ -1,16 +1,15 @@
 # proivder
 
-A new Flutter application.
+Learn how to handle state management in Flutter using the provider package! In this Flutter Provider tutorial, we go over how to add the provider package to your Flutter app and use MultiProvider and ChangeNotifierProvider.
 
-## Getting Started
+Helpful links:
+Source code: https://github.com/TechnoPrashant/easy_flutter_provider_demo
+Provider pub package: https://pub.dev/packages/provider
 
-This project is a starting point for a Flutter application.
+Support Me:
+- Join This Channel For More Easy Coding:
+https://www.youtube.com/channel/UCOZtX6OjzrdgX6v9QV76slg
+- Get More Demos:
+https://github.com/TechnoPrashant?tab=repositories
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Suggest me in a comment in which topic required video will try to make as soon as possible.
